@@ -1,0 +1,19 @@
+A Programmer's Guide to SJCAM SJ4000 WiFi
+Copyright (C) 2016 Nutchanon Wetchasit
+
+This guide is free document: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation.
+
+This guide is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+You should have received a copy of the GNU General Public License
+along with this guide. If not, see <http://www.gnu.org/licenses/gpl.html>
+
+Additionally, permission to redistribute and/or modify this guide
+is also provided under the terms of the GNU Free Documentation License
+as published by the Free Software Foundation; with no Invariant Sections,
+with no Front-Cover Texts, and with no Back-Cover Texts. A copy of this
+license could be obtained from <http://www.gnu.org/licenses/fdl.html>

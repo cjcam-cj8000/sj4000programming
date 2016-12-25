@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--
+	A Programmer's Guide to SJCAM SJ4000 WiFi
+	Copyright (C) 2016 Nutchanon Wetchasit
+	
+	This guide is free document: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation.
+	
+	This guide is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+	
+	You should have received a copy of the GNU General Public License
+	along with this guide. If not, see <http://www.gnu.org/licenses/gpl.html>
+	
+	Additionally, permission to redistribute and/or modify this guide
+	is also provided under the terms of the GNU Free Documentation License
+	as published by the Free Software Foundation; with no Invariant Sections,
+	with no Front-Cover Texts, and with no Back-Cover Texts. A copy of this
+	license could be obtained from <http://www.gnu.org/licenses/fdl.html>
+-->
+<style type="text/css"><![CDATA[body {
+	color: black;
+	background-color: white;
+	font-family: "DejaVu Sans", "Bitstream Vera Sans", sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "DejaVu Serif", "Bitstream Vera Serif", serif;
+}
+
+a {
+	color: #0000CD;
+}
+
+pre.programlisting, pre.screen {
+	background-color: #E8E8E8;
+	font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+	padding-top: 0.15em;
+	padding-bottom: 0.15em;
+	border-radius: 0.1em;
+}
+
+pre.programlisting .replaceable, pre.screen .replaceable {
+	font-style: italic;
+	font-weight: bold;
+}
+
+code {
+	font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+}
+
+code.varname, code.literal {
+	background-color: #E8E8E8;
+	border-radius: 0.1em;
+	padding-left: 0.15em;
+	padding-right: 0.15em;
+}
+
+table.table, table.informaltable {
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+table.table td, table.table th, table.informaltable td, table.informaltable th {
+	border: 1px solid black;
+	padding: 0.2em;
+}
+
+div.caution, div.warning, div.note {
+	border-left: 0.1em solid #DC143C;
+	margin-left: 0.3in !important;
+	margin-right: 0.3in !important;
+}
+
+div.caution .title, div.warning .title, div.note .title {
+	padding-left: 0.15in;
+	padding-right: 0.15in;
+	line-height: 150%;
+}
+
+div.caution>p, div.caution>ul, div.warning>p, div.warning>ul, div.note>p, div.note>ul {
+	margin-left: 0.15in;
+	margin-right: 0.15in;
+}
+
+hr {
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 2px dotted gray;
+	height: 0;
+}
+
+.navheader {
+	color: white;
+	background-color: maroon;
+	border-bottom: 1px solid black;
+}
+
+.navfooter {
+	color: white;
+	background-color: maroon;
+	border-top: 1px solid silver;
+}
+
+.navheader a, .navfooter a {
+	color: white;
+}
+
+div.book, div.preface, div.chapter, div.section, div.appendix, div.glossary, div.index {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+div.chapter div.section, div.appendix div.section, div.index div.index {
+	padding-left: 0;
+	padding-right: 0;
+}
+div.section div.section {
+	padding-left: 0;
+	padding-right: 0;
+}]]>
+</style>
