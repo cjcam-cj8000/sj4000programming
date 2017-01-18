@@ -5537,7 +5537,7 @@ route add 10.0.0.128 gw 127.0.0.1]]></programlisting>
 					If you wish to use more than one PC,
 					duplicate second and third block of command,
 					but substitute 10.0.0.10 with the new PC's wired LAN IP address
-					and increase 10.0.0.128 address by 1
+					and increase 192.168.1.128 address by 1
 					(when you add the third and the fourth PC,
 					increase it by 2, 3,
 					and so on).
