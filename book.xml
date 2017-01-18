@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <!--
 	A Programmer's Guide to SJCAM SJ4000 WiFi
-	Copyright (C) 2016 Nutchanon Wetchasit
+	Copyright (C) 2016-2017 Nutchanon Wetchasit
 	
 	This guide is free document: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -70,8 +70,8 @@
 <bookinfo>
 	<title>A Programmer's Guide to SJCAM SJ4000 WiFi</title>
 	<releaseinfo>
-		Version 0.7.0
-		(<emphasis>alpha release</emphasis>, 25 December 2016)
+		Version 0.7.1
+		(<emphasis>work in progress</emphasis>, January 2017)
 	</releaseinfo>
 	<author>
 		<firstname>Nutchanon</firstname><surname>Wetchasit</surname>
@@ -79,6 +79,7 @@
 	</author>
 	<copyright>
 		<year>2016</year>
+		<year>2017</year>
 		<holder>Nutchanon Wetchasit</holder>
 	</copyright>
 	<legalnotice>
