@@ -223,7 +223,7 @@ Author Information
 "A Programmer's Guide to SJCAM SJ4000 WiFi"
 Written by Nutchanon Wetchasit <Nutchanon.Wetchasit@gmail.com>
 
-This guide is seleased under GNU General Public License, or (at your option)
+This guide is released under GNU General Public License, or (at your option)
 GNU Free Documentation License (with no Invariant Sections,
 with no Front-Cover Text, and with no Back-Cover Texts).
 
