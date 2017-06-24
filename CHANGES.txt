@@ -8,6 +8,9 @@ A Programmer's Guide to SJCAM SJ4000 WiFi 0.7.1
 
 - Fixed typo in "HDMI" section of Chapter 2. "Standard Connectors".
 
+- Fixed typo in "Formatting MicroSD Card" section
+  of Chapter 9. "Accessing Camera Configuration".
+
 - Fixed wrong IP address in PC adding instruction
   in "Using 1:1 NAT with ARP Proxy" section
   of Appendix D. "Connecting Camera to Existing Network".

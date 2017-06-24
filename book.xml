@@ -4038,7 +4038,7 @@ ARM build on x86 device</literallayout>
 				available video recording length
 				or number of remaining photos shown on camera screen
 				might not immediately update.
-				If will eventually refresh to show the correct value
+				It will eventually refresh to show the correct value
 				after you change camera mode,
 				start video recording,
 				shoot a photo,
