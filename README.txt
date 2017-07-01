@@ -103,7 +103,7 @@ source directory:
     make book.pdf
 
 However there are things to keep in mind when generating PDF version
-of the guide, see "PDF Line Wrapping" and "PDF Fonts" section 
+of the guide, see "PDF Line Wrapping" and "PDF Fonts" section
 for more information.
 
 To build all version of the guide, run following command in source directory:
@@ -163,7 +163,7 @@ order (the first font found in each language will be used):
 - Chinese:  AR PL UMing CN, SimSun
 - Hebrew:   FreeSerif, Times New Roman
 - Japanese: AR PL UMing CN, SimSun
-- Korean:   Baekmuk Batang, UnBatang, Batang 
+- Korean:   Baekmuk Batang, UnBatang, Batang
 - Russian:  Nimbus Roman No9 L, Times New Roman, FreeSerif
 
 If you wish to use different fonts, edit "print.xsl" accordingly.
