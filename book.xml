@@ -821,7 +821,7 @@ ARM build on x86 device</literallayout>
 				This service is not used for anything but diagnostic purpose.
 			</para>
 		</listitem>
-	</itemizedlist>	
+	</itemizedlist>
 	<para>
 		See next chapters for information on each service
 		and their roles in supporting SJCAM ZONE application.
@@ -6051,7 +6051,7 @@ route add 10.0.0.128 gw 127.0.0.1]]></programlisting>
 		</glossdef>
 	</glossentry>
 	<glossentry id="curl">
-		<glossterm>cURL</glossterm>	
+		<glossterm>cURL</glossterm>
 		<glossdef>
 			<para>
 				A command line tool for issuing data request on common application protocols,
@@ -6428,7 +6428,7 @@ route add 10.0.0.128 gw 127.0.0.1]]></programlisting>
 				Mac OS X,
 				and iOS.
 			</para>
-			<para> 
+			<para>
 				It was called <quote>VideoLAN Client</quote> (VLC)
 				due to its original purpose
 				as video streaming client for their VideoLAN Server software.
