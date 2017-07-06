@@ -5714,7 +5714,7 @@ route add 10.0.0.128 gw 127.0.0.1]]></programlisting>
 						<row><entry>Modify Date</entry><entry><emphasis>(Date and time when the photo is shot)</emphasis></entry></row>
 						<row><entry>Y Cb Cr Positioning</entry><entry>Co-sited</entry></row>
 						<row><entry>Exposure Time</entry><entry><emphasis>(Varies)</emphasis></entry></row>
-						<row><entry>F Number</entry><entry><emphasis>1.8</emphasis></entry></row>
+						<row><entry>F Number</entry><entry>1.8</entry></row>
 						<row><entry>Exposure Program</entry><entry>Program AE</entry></row>
 						<row><entry>ISO</entry><entry><emphasis>(Varies)</emphasis></entry></row>
 						<row><entry>Exif Version</entry><entry>0220</entry></row>
