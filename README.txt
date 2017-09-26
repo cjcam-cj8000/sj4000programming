@@ -70,7 +70,8 @@ listed above, plus:
 
   - Apache FOP
     Used for writing output PDF document.
-    Tested with version 2.1
+    Version 2.2 works, but not perfectly, so as 2.1; see Known Issues below
+    for information, and PDF Line Wrapping section for workaround.
     
     https://xmlgraphics.apache.org/fop/
 
@@ -124,11 +125,11 @@ PDF Line Wrapping
 -----------------
 
 At the time of this writing, Apache FOP processor (including its latest
-2.1 version) has an issue on command-line display formatting. So, it is
-*NOT RECOMMENDED* to generate the PDF version directly from original
-source code without any hand-tuning, as example commands in the guide
-would be messed up. If you really need to generate the PDF version,
-follow this instruction:
+version 2.2) has problems on command-line and camera response display
+formatting. So, it is *NOT RECOMMENDED* to generate the PDF version
+directly from original source code without any hand-tuning, as example
+commands and camera output snippet in the guide would be messed up.
+If you really need to generate the PDF version, follow this instruction:
 
 - Change `select` option of `hyphenate.verbatim` line in "print.xml" file,
   from `1` to `0`.
@@ -197,13 +198,18 @@ Known Issues
 
 - Several versions of Apache FOP are known to have problems:
   
+  - Apache FOP 2.2 is known to wrap very long lines- ones that requires more
+    than one wrapping- inside program code display without displaying line
+    wrapping indicator on *some* wrapping points. (This guide uses
+    guillemet mark '>>' as line wrapping indicator)
+  
   - Apache FOP 1.0 (and 2.1 in some cases) are known to wrap lines in
     program code display in the guide without displaying proper
     line wrapping indicator. (This guide uses guillemet mark '>>'
     as line wrapping indicator)
   
-  - Apache FOP 1.0 and 2.1 are known to add extra dashes into command line
-    display in the guide, messing up the command.
+  - Apache FOP 1.0, 2.1, and 2.2 are known to add extra dashes into
+    command line and XML response display in the guide, messing them up.
 
 
 Reporting Bugs
