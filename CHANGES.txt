@@ -16,7 +16,7 @@ A Programmer's Guide to SJCAM SJ4000 WiFi 0.7.1
   of Appendix D. "Connecting Camera to Existing Network".
 
 - Removed incorrect emphasis of "F Number" value on EXIF metadata table
-  in "Photo Shooting Trivia" of Appendix E. Miscellaneous Trivia".
+  in "Photo Shooting Trivia" of Appendix E. "Miscellaneous Trivia".
 
 - Mentioned PDF generation problems with Apache FOP 2.2 in README.
 
