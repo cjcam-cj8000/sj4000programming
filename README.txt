@@ -179,7 +179,7 @@ Known Issues
 - Some versions of DocBook XSL are known to cause problems:
   
   - DocBook XSL 1.76.1 does not generate CSS file in chunked HTML output,
-    causing broken stylesheet link and unstyled page in chunked HTML
+    causing broken stylesheet links and unstyled pages in chunked HTML
     generation.
   
   - DocBook XSL 1.77.1 generates incorrect nested `<footnote>` link tags in
