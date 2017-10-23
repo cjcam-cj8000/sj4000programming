@@ -5688,7 +5688,7 @@ route add 10.0.0.128 gw 127.0.0.1]]></programlisting>
 				Photo shots from the camera are in JPEG/<glossterm linkend="exif">EXIF</glossterm> format
 				using baseline (i.e. non-progressive) DCT encoding
 				with Huffman code compression;
-				containing 3 color channels (RGB) and 8-bit resolution per channel.
+				containing 3 color channels (YCbCr) and 8-bit resolution per channel.
 				The encoding is done with YCbCr 4:2:2 (2 1) chroma subsampling,
 				resulting in 16x8 pixel minimum coded unit block.
 				EXIF version used is 2.2.
