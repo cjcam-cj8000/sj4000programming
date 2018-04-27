@@ -2439,7 +2439,7 @@ ARM build on x86 device</literallayout>
 				<row><entry>4</entry><entry>2048x1536 (3 megapixels, 4:3)</entry></row>
 				<row><entry>5</entry><entry>1920x1080 (2 megapixels, 16:9)</entry></row>
 				<row><entry>6</entry><entry>640x480 (VGA, 4:3)</entry></row>
-				<row><entry>7</entry><entry>1280x960 (1.3 megapixels, 16:9)</entry></row>
+				<row><entry>7</entry><entry>1280x960 (1.3 megapixels, 4:3)</entry></row>
 				<row>
 					<entry>1005</entry><entry align="center"><emphasis>(Unknown)</emphasis></entry>
 					<entry>0</entry><entry align="center"><emphasis>(Unknown)</emphasis></entry>
@@ -3204,7 +3204,7 @@ ARM build on x86 device</literallayout>
 				<row><entry>4</entry><entry>2048x1536 (3 megapixels, 4:3)</entry></row>
 				<row><entry>5</entry><entry>1920x1080 (2 megapixels, 16:9)</entry></row>
 				<row><entry>6</entry><entry>640x480 (VGA, 4:3)</entry></row>
-				<row><entry>7</entry><entry>1280x960 (1.3 megapixels, 16:9)</entry></row>
+				<row><entry>7</entry><entry>1280x960 (1.3 megapixels, 4:3)</entry></row>
 			</tbody>
 		</tgroup></table>
 		&confxmlresp;
